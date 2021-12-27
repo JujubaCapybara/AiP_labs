@@ -1,0 +1,4 @@
+﻿  Lab_9part_3(1).cpp
+C:\AIP labs\Lab_9\Lab_9part_3(1)\Lab_9part_3(1)\Lab_9part_3(1).cpp(6,71): warning C4305: инициализация: усечение из "unsigned __int64" в "int"
+C:\AIP labs\Lab_9\Lab_9part_3(1)\Lab_9part_3(1)\Lab_9part_3(1).cpp(6,52): warning C4309: инициализация: усечение константного значения
+  Lab_9part_3(1).vcxproj -> C:\AIP labs\Lab_9\Lab_9part_3(1)\Debug\Lab_9part_3(1).exe
